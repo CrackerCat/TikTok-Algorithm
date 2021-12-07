@@ -1,8 +1,4 @@
 # TikTok-Algorithm
-Code for generating Tiktok X-Gorgon, X-Khronos and etc. parameters, also containing some older examples on how to use the TikTok API.
+I found this python file from a source which was later deleted. Although the example api requests no longer seem to function, surprisingly the X-Gorgon, X-Khronos and etc. parameter generation works perfectly fine after testing it. The generation of these parameters is very important for being able to make requests to the tiktok api which is why I decided to post this code.
 
-This code was not written by me.
-
-This code was last tested and worked on Nov 20, 2021.
-
-I was able to construct a new and working tiktok api using these algorithims (for getting video information): https://github.com/frogc0de/TikTok-API
+Using this code I was able to construct a new tiktok api which is able to fetch information about videos, but other functions can be added as well: https://github.com/frogc0de/TikTok-API
